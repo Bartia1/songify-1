@@ -159,3 +159,8 @@ h1 {
 .song-list .song:hover {
     background-color: #282828;
 }
+
+
+.song-length {
+    text-align: right;
+}
